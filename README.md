@@ -11,10 +11,10 @@ After forking, fill in your team details below in your fork's README
 - **Team Name:ABOS
 - **Team Lead:Bilal
 - **Team Members:1
-- Member 1: Bilal Mohammed Khan
-- Member 2:Mohammed Affan Shareef
-- Member 3:Omer Abdul Majid 
-- Member 4:Shaik MD Sohail
+  - Member 1: Bilal Mohammed Khan
+  - Member 2:Mohammed Affan Shareef
+  - Member 3:Omer Abdul Majid 
+  - Member 4:Shaik MD Sohail
 
 ---
 

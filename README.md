@@ -8,13 +8,13 @@ Title of your repository shall be : team-(your team name)
 
 After forking, fill in your team details below in your fork's README
 
-- **Team Name:Mahreen&sumaiya
-- **Team Lead:Mahreen
+- **Team Name:ABOS
+- **Team Lead:Bilal
 - **Team Members:1
-  - Member 1:sumaiya
-  - Member 2:
-  - Member 3:
-  - Member 4:
+- Member 1: Bilal Mohammed Khan
+- Member 2:Mohammed Affan Shareef
+- Member 3:Omer Abdul Majid 
+- Member 4:Shaik MD Sohail
 
 ---
 
@@ -46,7 +46,13 @@ git push origin main
 
 ## Problem Statement
 
-[Write your problem statement here]
+In many colleges, students face issues such as infrastructure problems, maintenance requests, and administrative delays. However, the current complaint systems are inefficient, lacking transparency, prioritization, and accountability.
+
+Complaints are often lost, duplicated, or delayed due to manual handling and poor communication between students and departments. There is no structured way to track issue status, measure response times, or ensure timely resolution.
+
+Additionally, there is no mechanism to identify high-impact issues affecting multiple students or to prevent spam and duplicate complaints, leading to inefficiencies in resource allocation.
+
+Therefore, there is a need for a centralized, intelligent complaint management system that enables students to report issues, track progress in real-time, and ensures departments respond efficiently with measurable accountability.
 
 ---
 
